@@ -7,8 +7,7 @@ function About() {
         </h5>
         <p className="para-about">
           {" "}
-          I am software engineer.This is TodoList Project and i used multiple
-          languages in this project: HTML, CSS, Bootstrap, JavaScript and React
+          I am software engineer. I developed this project using by React.js.
           js.
         </p>
       </div>
