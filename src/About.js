@@ -8,7 +8,7 @@ function About() {
         <p className="para-about">
           {" "}
           I am software engineer. I developed this project using by React.js.
-          js.
+          
         </p>
       </div>
     </div>

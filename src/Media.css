@@ -134,7 +134,7 @@ margin-left: 50px;}
                           
   }
     }
-    @media (min-width:100px) and (max-width:399px){
+    @media (min-width:100px) and (max-width:400px){
         .h5-about{
     color: rgb(223, 137, 137);
     font-size: smaller;
@@ -150,7 +150,7 @@ margin-left: 50px;}
                                         
  }
       }
-      @media (min-width:100px) and (max-width:399px){
+      @media (min-width:100px) and (max-width:400px){
         .para-about{
      
          font-size: 10px; 
@@ -369,8 +369,8 @@ width: 100%;
 }
 @media (min-width:200px) and (max-width:400px){
     .Link{
-        margin-left: 50px;  
-        font-size: small;   
+        margin-left: 20px;  
+        font-size:10px;   
  }
 }
 @media (min-width:400px) and (max-width:700px){
